@@ -34,4 +34,4 @@ agents = create_agent(
 query = "what is the best langchain learning platform on internet"
 
 for chunk in tavily_search_tool.stream(query):
-    print(chunk,end="")
+    print(chunk,end="")[-1].pretty_print()
