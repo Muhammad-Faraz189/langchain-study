@@ -16,15 +16,19 @@ This repository is designed as a hands-on study project to explore and understan
   Implementation of LangChain agents for dynamic decision-making and task execution.
 
   Tools
+  <br>
   Custom tools integrated with agents to extend functionality and handle external tasks.
 
   Middleware
+  <br>
   Middleware layer for controlling request/response flow and adding custom logic.
 
   Memory
+  <br>
   Usage of memory modules to maintain context across interactions.
 
   Structured Output
+  <br>
   Implementation of structured responses using schemas for better data handling.
 
 ---
