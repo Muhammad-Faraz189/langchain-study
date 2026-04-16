@@ -1,4 +1,4 @@
-# LangChain Study br>
+# LangChain Study <br>
 
 A structured and practical implementation of core **LangChain concepts**, built for learning and experimentation. This repository demonstrates how to effectively use tools, agents, memory, middleware, and structured outputs in real-world scenarios.
 
