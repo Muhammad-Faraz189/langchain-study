@@ -1,7 +1,4 @@
-# langchain-study
-
-
-# 📘 LangChain Study Repository<br>
+# LangChain Study br>
 
 A structured and practical implementation of core **LangChain concepts**, built for learning and experimentation. This repository demonstrates how to effectively use tools, agents, memory, middleware, and structured outputs in real-world scenarios.
 
@@ -13,7 +10,7 @@ This repository is designed as a hands-on study project to explore and understan
 
 ---
 
-Features
+  Features
 
   Agents  
   Implementation of LangChain agents for dynamic decision-making and task execution.
@@ -46,46 +43,14 @@ langchain-study/
 └── README.md            # Project documentation
 ```
 
----
 
-## ⚙️ Installation
 
-1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/langchain-study.git
-cd langchain-study
-```
 
-2. Create a virtual environment:
 
-```bash
-python -m venv venv
-source venv/bin/activate  # (Linux/Mac)
-venv\Scripts\activate     # (Windows)
-```
 
-3. Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-Run the main script to test different components:
-
-```bash
-python main.py
-```
-
-You can modify and test individual modules (agents, tools, memory, etc.) as needed.
-
----
-
-## 🎯 Learning Goals
+Learning Goals
 
 This project helps you understand:
 
@@ -97,7 +62,7 @@ This project helps you understand:
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 
 * Python
 * LangChain
@@ -105,7 +70,7 @@ This project helps you understand:
 
 ---
 
-## 📌 Future Improvements
+Future Improvements
 
 * Add real-world use cases
 * API integration examples
@@ -114,7 +79,7 @@ This project helps you understand:
 
 ---
 
-## 🤝 Contributing
+Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
@@ -128,7 +93,8 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Muhammad Faraz**
+Muhammad Faraz
+<br>
 Feel free to connect and collaborate!
 
 ---
