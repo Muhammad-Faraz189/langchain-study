@@ -5,3 +5,4 @@ langchain_google_genai
 langchain-tavily
 pydantic
 langgraph
+grandalf
