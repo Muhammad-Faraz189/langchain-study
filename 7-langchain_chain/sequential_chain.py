@@ -10,12 +10,12 @@ api_key = os.getenv("GOOGLE_API_KEY")
 
 prompt1 = PromptTemplate(
     template = 'Generate a detailed report on this {topic}',
-    input_variable = ['topic']
+    input_variables = ['topic']
 )
 
 prompt2 = PromptTemplate(
     template = "Generate a 5 pointer summary on a following text\n {text}",
-    input_variable = ["text"]
+    input_variables = ["text"]
 )
 
 
